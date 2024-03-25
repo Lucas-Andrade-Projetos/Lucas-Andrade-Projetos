@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Andrade</h1>
 <h3 align="center">I am a JAVA developer looking for a career change into the field of data science. In this network, I will be depositing my daily challenges and projects. I hope to attract recruiters hehe.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-andrade-projetos&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-andrade-projetos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-andrade-projetos" alt="lucas-andrade-projetos" /></a> </p>
 
 - 🔭 I’m currently working on [Deduction Universal Gas Constant](https://github.com/Lucas-Andrade-Projetos/codes-deduction-Universal-gas-constant)
 
