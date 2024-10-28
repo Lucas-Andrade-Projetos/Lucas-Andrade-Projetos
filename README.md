@@ -2,7 +2,7 @@
 <h3 align="center">I am a JAVA developer looking for a career change into the field of data science. In this network, I will be depositing my daily challenges and projects. I hope to attract recruiters hehe.</h3>
 
 
-- 🔭 I’m currently working on [Deduction Universal Gas Constant](https://github.com/Lucas-Andrade-Projetos/codes-deduction-Universal-gas-constant)
+- 🔭 I’m currently working on [Soduko](https://github.com/Lucas-Andrade-Projetos/codes-deduction-Universal-gas-constant](https://github.com/Lucas-Andrade-Projetos/sudoku-c))
 
 - 🌱 I’m currently learning **Statics and Machine Learning**
 
